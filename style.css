@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  padding-left: 60px;
+  padding-top: 30px;
+
+}
+
+.menu {
+  width: 960px;
+  margin: 0 auto;
+}
+
+li {
+  padding-left: 20px;
+}
